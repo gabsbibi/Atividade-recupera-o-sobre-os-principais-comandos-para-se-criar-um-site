@@ -1,0 +1,30 @@
+html, body {
+  margin: 2;
+  padding: 2;
+}
+canvas {
+  display: block;
+}
+
+h1 {
+  color: pink;
+  font-size: 30px;
+  font-family: arial;
+}
+h2 {
+  color: purple;
+  font-size: 20px;
+  font-family: arial;
+}
+
+p1{
+  color:red;
+  font-size: 15px;
+  font-family: Times;
+}
+
+p2 {
+    color: red;
+  font-size: 15px;
+  font-family: Times;
+}
